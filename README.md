@@ -4,7 +4,7 @@ Course content from ACM AI's fall 2022 iteration of beginner track workshops.
 
 Software used: Python3 (Google Colaboratory + Jupyter Notebook), TensorFlow (Playground), scikit-learn, NumPy, Pandas 
 
-Find the asset cluster [here](https://docs.google.com/spreadsheets/d/1ShjPFq0R72GNl-w_dD-nXNCP3PvE29ygmgj4NT6Vyvc/edit?usp=sharing)
+Find the asset cluster [here](https://docs.google.com/spreadsheets/d/1ShjPFq0R72GNl-w_dD-nXNCP3PvE29ygmgj4NT6Vyvc/edit?usp=sharing).
 
 Guiding Officers: Claire Huang, Venkat Bollapragada, Naman Modani
 
